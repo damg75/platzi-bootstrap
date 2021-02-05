@@ -1,3 +1,6 @@
+.text-platzi {
+    color: #97c93e !important;
+}
 #footer {
     background: linear-gradient(90deg,#1c3643,#273b47 25%,#1e5372);
 }
@@ -9,4 +12,8 @@
 }
 #footer a:hover {
     text-decoration: underline;
+}
+
+#header img {
+    width: 80px;
 }
