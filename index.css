@@ -14,7 +14,7 @@ body {
 }
   
 #header img {
-    width: 80px;
+    width: 50px;
 }
 #main .carousel-inner img  {
     max-height: 70vh;
@@ -70,5 +70,7 @@ body {
 
 @media (max-width: 600px) {
     #loguito {
-      width: 50px;
+      width: 80px;
+    }
+}
 
