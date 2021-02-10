@@ -41,6 +41,16 @@
 #speakers .card {
     height: 600px;
 }
+#place-time {
+    background-color: #343a40;
+    color: white;
+}
+#place-time img {
+    max-width: 100%;
+}
+#conviertete-en-orador #placeholder-form{
+    color: #212529;
+}
 #footer {
     background: linear-gradient(90deg,#1c3643,#273b47 25%,#1e5372);
 }
