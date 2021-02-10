@@ -68,3 +68,7 @@ body {
     text-decoration: underline;
 }
 
+@media (max-width: 600px) {
+    #loguito {
+      width: 50px;
+
