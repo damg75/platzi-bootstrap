@@ -9,6 +9,10 @@
     background-color: #82ad36;
     color: white;
 }
+body {
+    position: relative;
+}
+  
 #header img {
     width: 80px;
 }
